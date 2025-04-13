@@ -1,7 +1,7 @@
 # TP6DPBO2025C1
 
 ## Janji
-_Saya, **Muhammad Daffa Ma'arif** dengan NIM **2305771**, mengerjakan **Tugas Praktikum 5** dalam mata kuliah **DPBO** dengan sebaik-baiknya demi keberkahan-Nya.  
+_Saya, **Muhammad Daffa Ma'arif** dengan NIM **2305771**, mengerjakan **Tugas Praktikum 6** dalam mata kuliah **DPBO** dengan sebaik-baiknya demi keberkahan-Nya.  
 Saya berjanji tidak melakukan kecurangan sebagaimana yang telah dispesifikasikan. **Aamiin.**_
 
 ## Deskripsi Program
