@@ -55,8 +55,8 @@ Kelas ini mengelola atribut pipa, termasuk posisi dan gerakan. Pipa bergerak dar
 ## Dokumentasi
 
 **Screenshot Tampilan Program**:
+
 |**Start**|**Play**|**Game Over**|
-|![Screenshot 2025-04-13 231349](https://github.com/user-attachments/assets/a713c050-ce4a-470e-a8eb-dd6b041eed0d)|
-![Screenshot 2025-04-13 231444](https://github.com/user-attachments/assets/f3276876-c853-457f-9ca8-74d70dd11eba)|
-![Screenshot 2025-04-13 231425](https://github.com/user-attachments/assets/a5550de4-2480-417d-8ff6-63d55d6e5f0d)|
+|---|---|---|
+|![Screenshot 2025-04-13 231349](https://github.com/user-attachments/assets/a713c050-ce4a-470e-a8eb-dd6b041eed0d)|![Screenshot 2025-04-13 231444](https://github.com/user-attachments/assets/f3276876-c853-457f-9ca8-74d70dd11eba)|![Screenshot 2025-04-13 231425](https://github.com/user-attachments/assets/a5550de4-2480-417d-8ff6-63d55d6e5f0d)|
 
